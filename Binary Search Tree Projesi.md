@@ -3,6 +3,7 @@
 
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
+Root 7 için;
 
 ```       
           7
