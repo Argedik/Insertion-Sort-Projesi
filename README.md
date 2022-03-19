@@ -5,7 +5,7 @@ insertion sort, merge sort and binary search tree projects
 **[22,27,16,2,18,6]** -> Insertion Sort
 
 1. Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
- - asd
+ - [22,27,16,2,18,6]
  - asd
 2. Big-O gösterimini yazınız.
 3. Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
